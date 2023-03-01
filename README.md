@@ -13,7 +13,7 @@ Je suis en formation depuis Octobre 2022 et souhaite maintenant mettre mes nouve
 - [x] React
 - [x] Sass
 
-J'ai aussi utilisé le framework Bootstrap ou encore étudié Php lors de mon socle.
+J'ai aussi utilisé le framework Bootstrap ou encore étudié Php et le CMS Wordpress lors de mon socle.
 
 Ayant un profil Front, je préfère mettre en avant les compétences qui correspondent à mon projet de stage :wink:
 
